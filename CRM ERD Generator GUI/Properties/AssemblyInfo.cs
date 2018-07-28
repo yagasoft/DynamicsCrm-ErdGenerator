@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("CRM ERD Generator GUI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ahmed el-Sawalhy (yagasoft.com)")]
 [assembly: AssemblyProduct("CRM ERD Generator GUI")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]

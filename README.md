@@ -11,9 +11,11 @@ Tool that generates an ERD diagram for chosen entities in CRM. The diagrams can 
 
 ### Credits
 
-  + Connection screen code:
+  + Connection screen code
 	+ Eric Labashosky
 	+ https://github.com/xairrick/CrmCodeGenerator
+  + Base code
+    + https://archive.codeplex.com/?p=crmerdiagramgenerator
 
 ---
 **Copyright &copy; by Ahmed el-Sawalhy ([YagaSoft](http://yagasoft.com))** -- _GPL v3 Licence_

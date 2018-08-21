@@ -1,4 +1,7 @@
 # DynamicsCrm-ErdGenerator
+
+[![Join the chat at https://gitter.im/yagasoft/DynamicsCrm-ErdGenerator](https://badges.gitter.im/yagasoft/DynamicsCrm-ErdGenerator.svg)](https://gitter.im/yagasoft/DynamicsCrm-ErdGenerator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Version: 1.3.5
 ---
 
